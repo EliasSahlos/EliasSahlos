@@ -20,4 +20,4 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSahlos&hide_progress=true&hide=lex,c&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSahlos&hide_progress=true&hide=lex,c,yacc&theme=react)
